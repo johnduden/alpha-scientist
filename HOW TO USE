@@ -17,3 +17,4 @@ To create a new article:
 (9) If correct, add the newly created files in the content folder AND the docs folder to the git repo.
 (10) Change back to the top-level directory.  rerun "pelican content -s publishconf.py"
 
+Change...
